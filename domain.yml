@@ -13,6 +13,9 @@ intents:
   - integer_answer
   - how_much
 
+entities:
+  - integer_answer
+
 actions:
 - utter_challenge_length
 - utter_ok
